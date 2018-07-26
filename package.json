@@ -1,0 +1,29 @@
+{
+  "name": "practice-webpack",
+  "version": "1.0.0",
+  "description": "结合《深入浅出webpack》一书，重拾webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirrorXu/practice-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirrorXu/practice-webpack/issues"
+  },
+  "homepage": "https://github.com/MirrorXu/practice-webpack#readme",
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "webpack-dev-server": "^2.6.1"
+  },
+  "dependencies": {
+    "css-loader": "^1.0.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "style-loader": "^0.21.0",
+    "webpack": "^3.12.0"
+  }
+}

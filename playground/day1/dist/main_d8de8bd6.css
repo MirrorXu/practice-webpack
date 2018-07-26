@@ -1,0 +1,9 @@
+html,body{
+	background: salmon;
+}
+
+#app{
+	font-size: 40px;
+	font-weight: bold;
+	color: red;
+}

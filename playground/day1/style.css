@@ -1,0 +1,11 @@
+html,body{
+	/*background: salmon;*/
+	background: steelblue;
+}
+
+#app{
+	font-size: 40px;
+	font-weight: lighter;
+	border: 5px solid saddlebrown;
+	background:seagreen;
+}
